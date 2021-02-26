@@ -1,10 +1,7 @@
 # Recurrent Neural Networks for Predictive Maintenance
-* Author: Umberto Griffo
-* Twitter: @UmbertoGriffo
 
-## Colab
-You can try the code directly on [Colab](https://colab.research.google.com/drive/1tjIOud2Cc6smmvZsbl-QDBA6TLA2iEtd).
-Save a copy in your drive and enjoy It!
+## Colab link
+[Colab](https://colab.research.google.com/drive/1AuyZoZ9WofYbphoJMnnaFGb4DVMUMR5q?usp=sharing)
 
 ## Software Environment
 * Python 3.6
@@ -90,7 +87,8 @@ We can also create a model to determine if the failure will occur in different t
 
 ## References
 
-- [1] Deep Learning for Predictive Maintenance https://github.com/Azure/lstms_for_predictive_maintenance/blob/master/Deep%20Learning%20Basics%20for%20Predictive%20Maintenance.ipynb
-- [2] Predictive Maintenance: Step 2A of 3, train and evaluate regression models https://gallery.azure.ai/Experiment/Predictive-Maintenance-Step-2A-of-3-train-and-evaluate-regression-models-2
-- [3] A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan), NASA Ames Research Center, Moffett Field, CA 
-- [4] Understanding LSTM Networks http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- [1] ![Umberto Griffo's amazing Notebook](https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM)
+- [2] Deep Learning for Predictive Maintenance https://github.com/Azure/lstms_for_predictive_maintenance/blob/master/Deep%20Learning%20Basics%20for%20Predictive%20Maintenance.ipynb
+- [3] Predictive Maintenance: Step 2A of 3, train and evaluate regression models https://gallery.azure.ai/Experiment/Predictive-Maintenance-Step-2A-of-3-train-and-evaluate-regression-models-2
+- [4] A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository (https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan), NASA Ames Research Center, Moffett Field, CA 
+- [5] Understanding LSTM Networks http://colah.github.io/posts/2015-08-Understanding-LSTMs/
