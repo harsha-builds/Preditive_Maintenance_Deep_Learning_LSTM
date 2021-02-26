@@ -1,7 +1,4 @@
 '''
-Created on 06 lug 2017
-
-@author: mantica
 
 https://github.com/Azure/lstms_for_predictive_maintenance/blob/master/Deep%20Learning%20Basics%20for%20Predictive%20Maintenance.ipynb
 https://ti.arc.nasa.gov/tech/dash/pcoe/prognostic-data-repository/#turbofan
